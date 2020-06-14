@@ -1,2 +1,2 @@
-# Espanol
-Espanol Language Training
+# Espanol (U
+Intensive Espanol Language Training(Univeristy of Miami)
