@@ -8,4 +8,4 @@ Intensive Espanol Language Training(Univeristy of Miami)
 [Verbos irregulares](https://www.spanishunicorn.com/verbos-irregulares-en-presente/)
 
 
-7. Ser - estar : usos 2
+8. Ser / estar: presente
