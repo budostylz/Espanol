@@ -7,4 +7,5 @@ Intensive Espanol Language Training(Univeristy of Miami)
 
 [Verbos irregulares](https://www.spanishunicorn.com/verbos-irregulares-en-presente/)
 
-Ser o estar - 1 : On Number 4
+
+7. Ser - estar : usos 2
