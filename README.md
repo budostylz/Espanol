@@ -9,3 +9,9 @@ Intensive Espanol Language Training(Univeristy of Miami)
 
 
 8. Ser / estar: presente
+
+## Números cardinales – Ejercicios
+[Números cardinales – Ejercicios](https://espanol.lingolia.com/es/vocabulario/numeros-fechas-horas/numeros-cardinales/numeros-cardinales-ejercicios)
+
+## Los números cardinales en español
+[Los números cardinales en español](https://espanol.lingolia.com/es/vocabulario/numeros-fechas-horas/numeros-cardinales)
