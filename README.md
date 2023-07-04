@@ -27,4 +27,11 @@ Intensive Espanol Language Training(Univeristy of Miami)
 
 [Spanish Grammer](https://tildesites.bowdoin.edu/~eyepes/newgr/ats/)
 
+[18 Essential Spanish Grammar Rules Every Learner Should Know](https://www.fluentu.com/blog/spanish/spanish-grammar-rules/#toc_1)
+
+## Free Courses
+[Free Spanish Courses](https://www.spanish.academy/blog/take-a-class-top-10-free-spanish-language-courses/)
+
+[Memrise](https://app.memrise.com/)
+
 
