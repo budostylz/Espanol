@@ -36,4 +36,7 @@ Intensive Espanol Language Training(Univeristy of Miami)
 
 [FluentU](https://www.fluentu.com/)
 
+## Training Plans
+[Beginner](https://chatgpt.com/share/e/676568ec-fa00-8009-940e-4c314ec4b72a)
+
 
